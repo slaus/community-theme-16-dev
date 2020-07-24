@@ -70,14 +70,14 @@ E.g. `.product-list-item`.
 
 ## Libraries and dependencies
 
-                        | default-bootstrap | community-theme-16
------------------------ | ----------------- | -------------
-Bootstrap               | 3.0.0             | 4.1.3
-Font Awesome            | 4.3.0             | 4.6.3
-jquery.uniform.js       | 2.1.2             | -
-jquery.total-storage.js | 1.1.2             | 1.1.2
-[js-url](https://github.com/websanova/js-url) | - | 2.3.0
-[bourbon](https://www.npmjs.com/package/bourbon) | - | ^4.2.6
+|                         | default-bootstrap | community-theme-16 |
+| ----------------------- | ----------------- | ------------- |
+| Bootstrap               | 3.0.0             | 4.1.3 |
+| Font Awesome            | 4.3.0             | 4.6.3 |
+| jquery.uniform.js       | 2.1.2             | - |
+| jquery.total-storage.js | 1.1.2             | 1.1.2 |
+| [js-url](https://github.com/websanova/js-url) | - | 2.3.0 |
+| [bourbon](https://www.npmjs.com/package/bourbon) | - | ^4.2.6 |
 
 ## Installation
 
