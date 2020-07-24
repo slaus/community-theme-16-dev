@@ -26,7 +26,7 @@ The main features of this theme:
 
 - Removed unnecessary styles, functions, elements
 - Updated libraries (Bootstrap, Font Awesome)
-- Wider usage [Bootstrap 3](http://getbootstrap.com/) styles, utilities and components
+- Wider usage [Bootstrap 4](http://getbootstrap.com/) styles, utilities and components
 - Reduced stylesheet size
 - Simplified HTML markup
 - Improved SEO markup and microdata
@@ -72,7 +72,7 @@ E.g. `.product-list-item`.
 
                         | default-bootstrap | community-theme-16
 ----------------------- | ----------------- | -------------
-Bootstrap               | 3.0.0             | 3.3.7
+Bootstrap               | 3.0.0             | 4.1.3
 Font Awesome            | 4.3.0             | 4.6.3
 jquery.uniform.js       | 2.1.2             | -
 jquery.total-storage.js | 1.1.2             | 1.1.2
